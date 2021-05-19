@@ -3,7 +3,7 @@
  <h1>Project: Delta <!-- sjkfhskjf --> </h1>
 
 Var: -v, -db</p>
-<p>Signal recieved: <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> MDEwMDExMDAgMDExMDExMTEgMDExMDAwMTEgMDExMDAwMDEgMDExMTAxMDAgMDExMDEwMDEgMDExMDExMTEgMDExMDExMTA= </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<span id="a">Signal recieved:</span> <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> MDEwMDExMDAgMDExMDExMTEgMDExMDAwMTEgMDExMDAwMDEgMDExMTAxMDAgMDExMDEwMDEgMDExMDExMTEgMDExMDExMTA= </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p><!-- laglaglaglaglaglaglaglaglaglaglaglaglag --> Manual decryption is required</p> <br>
 
 <!-- slightdelayhere--> Please stand by<!-- longlonglongcomment -->
