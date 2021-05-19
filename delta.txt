@@ -2,7 +2,7 @@
 <span id="a">root</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
  <h1>Project: Delta <!-- sjkfhskjf --> </h1>
 
-Var: -v, -db, - </p>
+Var: -v, -db</p>
 <p>Signal recieved: <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> MDEwMDExMDAgMDExMDExMTEgMDExMDAwMTEgMDExMDAwMDEgMDExMTAxMDAgMDExMDEwMDEgMDExMDExMTEgMDExMDExMTA= </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p><!-- laglaglaglaglaglaglaglaglaglaglaglaglag --> Manual decryption is required</p> <br>
 
